@@ -1,0 +1,15 @@
+# Build products and generated assembly
+*.exe
+*.o
+*.obj
+*.asm
+/mini1
+/mini1_debug
+/ASMC
+__pycache__/
+*.pyc
+/debug.txt
+
+# Local development snapshots and lecture handouts
+/cycle_comparison/
+*.pdf
